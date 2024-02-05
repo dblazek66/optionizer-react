@@ -1,0 +1,53 @@
+
+  
+  /* Style the top navigation bar */
+  .topnav {
+    overflow: hidden;
+    background-color: var(--bluetone);
+  }
+  
+    /* Style the topnav links */
+  .topnav a {
+    float: left;
+    display: block;
+    color: var(--light);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .app-brand {
+    float: left;
+    display: block;
+    background-color: var(--bluetone);
+    text-align: center;
+    padding: .75em 2.5em;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    letter-spacing: .125em;
+    cursor:default;
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color: var(--light);
+    color: black;
+  }
+
+  .menunav {
+    overflow: hidden;
+    background-color: var(--dark);
+  }
+  .menunav a {
+    float: left;
+    display: block;
+    color: var(--light);
+    text-align: center;
+    padding: 4px 20px;
+    text-decoration: none;
+    font-size: small;
+  }
+  .menunav a:hover {
+    background-color: var(--bluetone);
+
+  }

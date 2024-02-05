@@ -1,0 +1,163 @@
+{
+    "categories":[
+    {
+        "id":1,
+        "Category":"structural",
+        "SubCat":[
+            {"subid":1,"item":"sunroom"},
+            {"subid":2,"item":"extention"},
+            {"subid":3,"item":"deck"},
+            {"subid":4,"item":"porch"},
+            {"subid":5,"item":"elevation"}
+        ]
+    },
+    {
+        "id":2,
+        "Category":"interior",
+        "SubCat":[
+            {"subid":1,"item":"backsplash"},
+            {"subid":2,"item":"cabinets"},
+            {"subid":3,"item":"countertops"},
+            {"subid":4,"item":"doors"},
+            {"subid":5,"item":"faucets"},
+            {"subid":6,"item":"flooring"},
+            {"subid":7,"item":"hardware"},
+            {"subid":8,"item":"molding"},
+            {"subid":9,"item":"sinks"},
+            {"subid":10,"item":"windows"}
+        ]
+    },
+    {
+        "id":3,
+        "Category":"exterior",
+        "SubCat":[
+            {"subid":1,"item":"roof"},
+            {"subid":2,"item":"siding"},
+            {"subid":3,"item":"lighting"},
+            {"subid":4,"item":"landscaping"}
+    ]
+    },
+    {
+        "id":4,
+        "Category":"electrical",
+        "SubCat":[
+            {"subid":1,"item":"lighting"},
+            {"subid":2,"item":"sound"},
+            {"subid":3,"item":"security"},
+            {"subid":4,"item":"wiring"},
+            {"subid":5,"item":"outlets"}
+        ]
+    }
+],
+"Items":[
+    {
+        "id":"WPC185",
+        "catId":"2",
+        "subid":"6",
+        "type":"Luxury Vinyl Plank",
+        "brand":"Shaw",
+        "collection":"Titan HD Plus",
+        "series":"",
+        "material":"Vinyl",
+        "finish":"Imperial Beech",
+        "size":"12mm x 8.98in. x 72.05in.",
+        "features":"1mm Attached Pad",
+        "image":"",
+        "price":"3.89",
+        "unit":"SQFT"
+    },
+    {
+        "id":"WPC1130",
+        "catId":"2",
+        "subid":"6",
+        "type":"Luxury Vinyl Plank",
+        "brand":"Shaw",
+        "collection":"Titan HD Plus",
+        "series":"",
+        "material":"Vinyl",
+        "finish":"Essential White",
+        "size":"12mm x 8.98in. x 72.05in.",
+        "features":"1mm Attached Pad",
+        "image":"",
+        "price":"3.79",
+        "unit":"SQFT"
+    },
+    {
+        "id":"WPC5037",
+        "catId":"2",
+        "subid":"6",
+        "type":"Luxury Vinyl Plank",
+        "brand":"Shaw",
+        "collection":"Titan HD Plus",
+        "series":"",
+        "material":"Vinyl",
+        "finish":"Modern Oak",
+        "size":"12mm x 8.98in. x 72.05in.",
+        "features":"1mm Attached Pad",
+        "image":"",
+        "price":"3.79",
+        "unit":"SQFT"
+    },
+    {
+        "id":"C5001",
+        "catId":"2",
+        "subid":"6",
+        "type":"Carpet",
+        "brand":"Dupont",
+        "collection":"No Limits",
+        "series":"",
+        "material":"100% PureColor Soultion Dyed BCF Polyester",
+        "finish":"Warm Shadow",
+        "size":"12ft Width 60oz",
+        "features":"Lifetime Residential",
+        "image":"",
+        "price":"1.61",
+        "unit":"SQFT"
+    }
+],
+"Customers":[
+    {
+        "Name":"Fred Flintstone",
+        "Model":"Bedrock",
+        "Base":"425,299",
+        "LotNum":"101"
+    },
+    {
+        "Name":"Barney Rubble",
+        "Model":"Slate",
+        "Base":"250,299",
+        "LotNum":"103"
+    }
+],
+"Models":[
+    {
+        "id":"1",
+        "Model":"Slate",
+        "Base":"250,299"
+    },
+    {
+        "id":"2",
+        "Model":"Granite",
+        "Base":"360,000"
+    },
+    {
+        "id":"3",
+        "Model":"Bedrock",
+        "Base":"425,299"
+    },
+    {
+        "id":"4",
+        "Model":"Quartz",
+        "Base":"580,000"
+    },
+    {
+        "id":"5",
+        "Model":"Gemstone",
+        "Base":"620,000"
+    }
+
+]
+
+}
+
+

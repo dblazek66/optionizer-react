@@ -1,0 +1,77 @@
+.main-card{
+    border: #000 1px solid;
+    text-align: center;
+    min-width: 100px;
+    min-height: 50px;
+}
+.main-card a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: var(--bluetone);
+}
+.main-card a:hover{
+    text-decoration: underline;
+}
+.item-desc{
+    font-size: 10pt;
+    background-color: var(--dark);
+    color: #fff;
+}
+.item-hdr{
+    color: #fff;
+    background-color: var(--bluetone);
+}
+
+label{
+    font-weight: bold;
+    margin-right: 1em;
+    margin-left: 1em;
+  }
+  
+.input-control{
+    font-size: 14px;
+    width: 100%;
+    padding: 8px 14px;
+    display: inline-block;
+    border: 1px solid #c1c1c1;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    gap: 5px;
+    gap: 5px 10px; /* row-gap column gap */
+    row-gap: 5px;
+    column-gap: 10px;
+}
+ul.sub-items {
+    list-style-type: none;
+    margin: 0;
+    padding: 6px 20px ;
+    background-color: var(--bluetone);
+    width: 150px;
+    
+}
+
+ul.sub-items:hover{
+    background-color:var(--dark);
+    text-decoration: none;
+    color: #fff;
+    
+}
+
+ul.sub-items a{
+    color: var(--bluetone);
+    text-decoration: none;
+    color: #fff;
+}
+
+.control-card{
+    border: #000 1px solid;
+    border-radius: 5px;
+    padding: 10px;
+    max-width: 50%;
+}
